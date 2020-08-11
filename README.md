@@ -20,6 +20,10 @@ python iteration_1.py 127.0.0.1
 ### iteration 2
 
 ```
+Clarification: The interpreter implementation in CPython is not thread-safe. Equally I used the threading library
+               
+
+
 python <script> <threads_cant> <target>
 
 python iteration_2.py 3 127.0.0.1
