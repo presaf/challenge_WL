@@ -4,8 +4,8 @@ This challenge is divided into 5 iterations.
 
 ## Installation
 
-1- Install python \
-2- Install docker
+* Install python 
+* Install docker
 
 ## Usage
 
@@ -46,10 +46,10 @@ python iteration_3.py 4 -f 127.0.0.1
 ### iteration 5
 
 ```
-Fist:
+First:
 Setup: dockerfile (In this file you can configure the script to run)
-    1- Run in terminal: docker build -t docker-iteration-5 .
-    2- Run in terminal: run -e TARGET=<target> docker-iteration-5
+    * Run in terminal: docker build -t docker-iteration-5 .
+    * Run in terminal: run -e TARGET=<target> docker-iteration-5
 Existing problems in this iteration: Cannot set the expose port in image docker
 ```
 
