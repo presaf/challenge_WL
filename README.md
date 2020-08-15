@@ -43,8 +43,8 @@ python iteration_3.py 4 -f 127.0.0.1
 ```
 python <script> <threads_cant> <flagFirewall> <target>
 
-python iteration_3.py 3 f 127.0.0.1
-python iteration_3.py 4 -f 127.0.0.1
+python iteration_4.py 3 f 127.0.0.1
+python iteration_4.py 4 -f 127.0.0.1
 ```
 
 ### iteration 5
